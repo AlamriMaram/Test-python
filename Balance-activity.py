@@ -1,3 +1,4 @@
+
 #write a program that simulates a simple ATM.The pograme should ask the user fo thei PIN:
 PIN=int(input("Enter the PIN please :"))
 balance = 100

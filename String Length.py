@@ -1,3 +1,4 @@
+#task
 name="python for eveyone"
 print(name[-1])#numbr of characters rom the left 
 print(name[:6])#count the number of characters from the right 

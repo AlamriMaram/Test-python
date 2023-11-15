@@ -1,6 +1,5 @@
 #Swap
 
-
 #Using a temporary variable
 a=3
 b=4
