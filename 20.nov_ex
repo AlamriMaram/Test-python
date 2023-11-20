@@ -1,0 +1,8 @@
+def sum_digitis(x):
+    
+    sum_=0
+    while(x!=0):
+        sum_+=x%10
+        x=x//10
+    print(sum_)
+sum_digitis(234)
